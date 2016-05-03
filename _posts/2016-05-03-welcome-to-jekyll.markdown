@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Yemzo!"
 date:   2016-05-03 21:57:58 +0100
 categories: jekyll update
 ---
