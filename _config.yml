@@ -21,4 +21,5 @@ github_username:  yemzo
 markdown: kramdown
 
 #To stop Jekyll including your configuration in it’s generated site
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
