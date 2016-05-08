@@ -1,9 +1,8 @@
 source 'https://rubygems.org'
-ruby '2.2.2'
+ruby '2.2.3'
 gem 'bundler'
 gem 'jekyll'
 gem 'kramdown'
 gem 'rack-jekyll'
 gem 'rake'
 gem 'puma'
-
